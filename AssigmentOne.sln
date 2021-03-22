@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assigment01", "Assigment01", "{3BA87927-98C2-4A06-853E-CF03E1C7B08C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assigment01", "Assigment01\Assigment01.csproj", "{35BA55CE-7C98-4ECD-B0FB-0809AF597FB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35BA55CE-7C98-4ECD-B0FB-0809AF597FB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35BA55CE-7C98-4ECD-B0FB-0809AF597FB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35BA55CE-7C98-4ECD-B0FB-0809AF597FB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35BA55CE-7C98-4ECD-B0FB-0809AF597FB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{35BA55CE-7C98-4ECD-B0FB-0809AF597FB2} = {3BA87927-98C2-4A06-853E-CF03E1C7B08C}
+	EndGlobalSection
+EndGlobal
